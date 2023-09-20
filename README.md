@@ -4,11 +4,13 @@
 #### clone the repository
 #### cd Songify
 #### cd backend
+#### npm install
 #### npm run start:dev
 
 ## To run the frontend that has been implemented 
 #### cd Songify
 #### cd frontend
+#### npm install
 #### npm run dev
 
 ## Images
