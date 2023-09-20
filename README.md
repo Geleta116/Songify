@@ -6,7 +6,8 @@
 #### cd backend
 #### npm install
 #### npm run start:dev
-
+For the backend please remember to add an appropriate environment variable for the database connection string in the .env filein this format as an example
+      DATABASE_URL="postgresql://superadmin:12345678@localhost:5433/songify?schema=public"
 ## To run the frontend that has been implemented 
 #### cd Songify
 #### cd frontend
